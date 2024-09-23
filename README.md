@@ -1,0 +1,2 @@
+# mottproxy
+PROXY
